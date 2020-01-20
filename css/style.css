@@ -30,10 +30,8 @@ p {
     font-size: 1rem;
 }
 
-
-
 .row {
-    padding: 5% 15% 5%;
+    padding: 5% 15%;
     max-width: 1440px;
     border-radius: 4%;
     border-top: 4%;
@@ -85,7 +83,6 @@ p {
     background-color: #fff;
 
 }
-
 
 .page-footer {
     background-color: black;
